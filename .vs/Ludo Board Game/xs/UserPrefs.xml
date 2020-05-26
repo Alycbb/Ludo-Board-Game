@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{F00DE999-9D27-0DEF-5B2B-AD78439789D7}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Stone.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Dice.cs" Line="76" Column="24" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="29" Column="5" />
+      <File FileName="Assets/Scripts/Stone.cs" Line="152" Column="22" />
+      <File FileName="Assets/Scripts/Info.cs" Line="24" Column="2" />
+      <File FileName="Assets/Scripts/Node.cs" Line="10" Column="2" />
+      <File FileName="Assets/Scripts/Route.cs" Line="49" Column="53" />
+      <File FileName="Assets/Scripts/Menu/GameOver.cs" Line="33" Column="28" />
+      <File FileName="Assets/Scripts/Menu/StartGame.cs" Line="17" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
